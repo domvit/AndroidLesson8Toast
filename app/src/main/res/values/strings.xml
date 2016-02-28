@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidLesson8Toast</string>
+    <string name="first_string">AndroidLesson8Toast</string>
+    <string name="button_hello">Say Hello</string>
+</resources>
